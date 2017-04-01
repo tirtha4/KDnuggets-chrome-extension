@@ -1,0 +1,16 @@
+{
+    "name": "KDnuggets",
+    "version":"1.0",
+    "description": "This extension acts to search and retrieve articles from kdnuggets.com. The developer of this extension is
+                    not the owner of the website, therefore has no rights on the contents present on the website",
+    "browser_action": {
+        "default_icon": {
+            "40": "kdnuggets.png"
+            },
+        "default_title": "KDnuggets article search ",
+        "default_popup": "kd.html"
+    },
+    "manifest_version": 2
+
+
+}
